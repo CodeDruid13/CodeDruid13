@@ -1,13 +1,8 @@
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/obare13"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/Obare13" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p> 
+ 
 :woman_technologist: &nbsp;About Me :
-
+<br />
 
 
 I am a Front end engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
@@ -23,10 +18,17 @@ I am self-aware of the impact our solutions have on people's lives, and this is 
 Am highly experienced in product design using tools like Figma, Adobe XD and Illustrator. The extensive portfolio can be found via 
 [Dribbble Portfolio](https://dribbble.com/Obare13) and [Behance Portfolio](https://behance.net/Obare13) 
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m working as a Software Engineer contributing to frontend and awesome product design.
+- 🌱 Exploring Human Centered Design and Interaction.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [Email Address](mailto:obaregeoffrey78@gmail.com)
+
+### Connect with me:
+[<img align="left" alt="obare13 | Portfolio" src="https://img.shields.io/badge/helpdesk-%23FFD000.svg?&style=for-the-badge&logo=helpdesk&logoColor=blackA" />][webAsite] 
+[<img align="left" alt="obare13 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
+[<img align="left" alt="CodeDrdui13 | GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+
+<br />
 
 ---
 
@@ -73,5 +75,20 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 
 ---
 
+ 
+### 📊 GitHub Stats:
+<a href="https://www.linkedin.com/in/obare13">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=codedruid13&show_icons=true&theme=react" alt="Obare's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedruid13&layout=compact&theme=react" alt="Obare's top languages" />
+</a>
+
+
 ### ✍️ Blog Posts : 
 - [Influence of design on usability of applications || Best mobile design practices](https://blog.madavi.co/influence-of-design-on-usability-of-applications/)
+
+
+[website]: https:obare.netlify.app
+[linkedin]: https://linkedin.com/in/obare13 
+[github]: https://github.com/codedruid13 
+
+
