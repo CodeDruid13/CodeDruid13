@@ -17,7 +17,7 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 
 - 🔭 I’m working as a Software Engineer contributing to frontend and awesome product design.
 - 🌱 Exploring Human Centered Design and Interaction.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time I read sports articles and watch some Dragon Ball Z.
 - 📫 How to reach me: &nbsp; [Email Address](mailto:obaregeoffrey78@gmail.com)
 
 ### Connect with me:
