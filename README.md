@@ -9,7 +9,7 @@ I am a Front end engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 I am a multidisciplinary developer with a curious mind, I enjoy to meet new people and understand how they are solving problems, this is one of the reasons why I invest my time on meetups from product design (research, design thinking, design system, etc.) to everything related to development and talking to people in general, as always can be an opportunity to learn something new. I see it as a chance to improve myself as a professional and put things in practice when I’m creating my solutions.
 
-Over +4 years, I’ve worked on a diverse set of projects, working from research to production, that include iOS, Android, web, SaaS, B2B, B2C, user research, data visualization, art direction and marketing design.
+Over +4 years, I’ve worked on a diverse set of projects, working from research to production, that include iOS, Android, web, SaaS, B2B, B2C, user research, data visualization and product design.
 
 In all projects, I seek to simplify the relationship between people and the interactive products they use, taking into consideration business goals and technological constraints.
 
