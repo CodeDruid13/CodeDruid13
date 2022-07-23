@@ -5,7 +5,7 @@
 <br />
 
 
-I am a Front end engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Front end engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and Product Designer.
 
 I am a multidisciplinary developer with a curious mind, I enjoy to meet new people and understand how they are solving problems, this is one of the reasons why I invest my time on meetups from product design (research, design thinking, design system, etc.) to everything related to development and talking to people in general, as always can be an opportunity to learn something new. I see it as a chance to improve myself as a professional and put things in practice when I’m creating my solutions.
 
