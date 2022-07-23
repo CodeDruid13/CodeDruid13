@@ -24,7 +24,7 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 - 📫 How to reach me: &nbsp; [Email Address](mailto:obaregeoffrey78@gmail.com)
 
 ### Connect with me:
-[<img align="left" alt="obare13 | Portfolio" src="https://img.shields.io/badge/helpdesk-%23FFD000.svg?&style=for-the-badge&logo=helpdesk&logoColor=blackA" />][webAsite] 
+[<img align="left" alt="obare13 | Portfolio" src="https://img.shields.io/badge/helpdesk-%23FFD000.svg?&style=for-the-badge&logo=helpdesk&logoColor=blackA" />][website] 
 [<img align="left" alt="obare13 | LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
 [<img align="left" alt="CodeDrdui13 | GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 
@@ -86,8 +86,8 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 ### ✍️ Blog Posts : 
 - [Influence of design on usability of applications || Best mobile design practices](https://blog.madavi.co/influence-of-design-on-usability-of-applications/)
 
-
-[website]: https:obare.netlify.app
+ 
+[website]: https://obare.netlify.com
 [linkedin]: https://linkedin.com/in/obare13 
 [github]: https://github.com/codedruid13 
 
