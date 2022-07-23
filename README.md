@@ -32,7 +32,7 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 
 ---
 
-### 🛠 &nbsp;Web Development SKills and Tools:
+### 🛠 &nbsp;Web Development Skills and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -53,7 +53,7 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 
 ---
 
-### 🛠 &nbsp;Backend SKills and Tools:
+### 🛠 &nbsp;Backend Skills and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
 
 ---
 
-### 🛠 &nbsp;Design SKills and Tools:
+### 🛠 &nbsp;Design Skills and Tools:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
