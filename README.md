@@ -75,8 +75,8 @@ Am highly experienced in product design using tools like Figma, Adobe XD and Ill
  
 ### 📊 GitHub Stats:
 <a href="https://www.linkedin.com/in/obare13">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=codedruid13&show_icons=true&theme=react" alt="Obare's github stats" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedruid13&layout=compact&theme=react" alt="Obare's top languages" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=codedruid13&show_icons=true&theme=react&count_private=true" alt="Obare's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedruid13&layout=compact&theme=react&count_private=true" alt="Obare's top languages" />
 </a>
 
 
